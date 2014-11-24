@@ -20,7 +20,7 @@ public class Bag extends ArrayList<Food> {
             food.about();
             if (food instanceof Mushrooms && ((Mushrooms) food).isPoisoned()) {
                 System.out.println();
-                System.out.println("WARNING!!! Amanite detected!");
+                System.out.println("WARNING!!! Amanita detected!");
                 Scanner sc = new Scanner(System.in);
                 while (true) {
                     System.out.println();
@@ -30,7 +30,7 @@ public class Bag extends ArrayList<Food> {
                     switch (choice) {
                         case 1:
                             foodIterator.remove();
-                            System.out.println("Amanite was successfully removed from your bag!");
+                            System.out.println("Amanita was successfully removed from your bag!");
                             break;
                         case 2:
                             break;
