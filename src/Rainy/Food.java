@@ -1,9 +1,5 @@
 package Rainy;
 
-/**
- * User: Aleksandrs Grigorjevs
- * Date: 2014.06.18. 9:20
- */
 public abstract class Food {
 
     protected String getName() {

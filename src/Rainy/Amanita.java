@@ -1,9 +1,5 @@
 package Rainy;
 
-/**
- * User: Aleksandrs Grigorjevs
- * Date: 2014.06.20. 10:59
- */
 public class Amanita extends Mushrooms {
 
     private final String name = "amanita";

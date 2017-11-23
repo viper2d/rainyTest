@@ -2,10 +2,6 @@ package Rainy;
 
 import java.util.Scanner;
 
-/**
- * User: Aleksandrs Grigorjevs
- * Date: 2014.06.18. 9:14
- */
 public class Main {
     public static void main(String[] args) {
         Person person = new Person();

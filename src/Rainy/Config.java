@@ -1,9 +1,5 @@
 package Rainy;
 
-/**
- * User: Aleksandrs Grigorjevs
- * Date: 2014.06.18. 14:46
- */
 public class Config {
     public static final int MAX_ENERGY = 100;
     public static final int FOOTBALL_ENERGY = 70;

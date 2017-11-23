@@ -1,9 +1,5 @@
 package Rainy;
 
-/**
- * User: Aleksandrs Grigorjevs
- * Date: 2014.06.18. 10:37
- */
 public abstract class Mushrooms extends Food {
 
     protected boolean isPoisoned() {

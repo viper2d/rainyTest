@@ -1,9 +1,5 @@
 package Rainy;
 
-/**
- * User: Aleksandrs Grigorjevs
- * Date: 2014.06.18. 10:40
- */
 public class Truffle extends Mushrooms {
 
     private final String name = "truffle";

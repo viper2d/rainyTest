@@ -2,10 +2,6 @@ package Rainy;
 
 import java.util.Random;
 
-/**
- * User: Aleksandrs Grigorjevs
- * Date: 2014.06.18. 11:30
- */
 public class Forest {
 
     private static Random random = new Random(System.currentTimeMillis());

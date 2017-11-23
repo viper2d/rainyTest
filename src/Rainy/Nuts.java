@@ -1,9 +1,5 @@
 package Rainy;
 
-/**
- * User: Aleksandrs Grigorjevs
- * Date: 2014.06.18. 11:33
- */
 public class Nuts extends Food {
 
     private final String name = "nuts";

@@ -4,10 +4,6 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.Scanner;
 
-/**
- * User: Aleksandrs Grigorjevs
- * Date: 2014.06.18. 10:52
- */
 public class Bag extends ArrayList<Food> {
     private int capacity = Config.BAG_CAPACITY;
 

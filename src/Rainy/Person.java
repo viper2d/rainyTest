@@ -2,10 +2,6 @@ package Rainy;
 
 import java.util.Random;
 
-/**
- * User: Aleksandrs Grigorjevs
- * Date: 2014.06.18. 10:45
- */
 public class Person {
 
     public Bag getBag() {
